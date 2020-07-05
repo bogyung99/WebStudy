@@ -1,0 +1,10 @@
+body {
+    text-align: center;
+}
+  
+#main {
+    border-radius: 5px;
+    background:#EEEEEE;
+    margin: 25px 5px;
+    padding: 25px;
+}
