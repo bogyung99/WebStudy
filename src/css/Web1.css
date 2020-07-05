@@ -8,3 +8,13 @@ body {
     margin: 25px 5px;
     padding: 25px;
 }
+
+#img_box {
+    background: white;
+    padding: 30px;
+    margin: 0;
+}
+
+#img_text {
+    margin: 20px 0 5px 0;
+}  
