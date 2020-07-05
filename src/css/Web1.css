@@ -4,10 +4,19 @@ body {
   
 h1 {
     font-size: 50px;
+    color: #333333;
+}
+
+h2 {
+    font-size: 25px;
+    margin-top: 30px;
+    margin-bottom: 60px;
+    color: #333333;
 }
 
 p {
     font-size: 20px;
+    color: #333333;
 }
 
 img {
@@ -16,11 +25,23 @@ img {
     height: 800px;
 }
 
+li{
+    text-align: left;
+    margin: 20px;
+    color: #333333;
+    font-size: 20px;
+}
+
+ul {
+    margin-bottom: 80px;
+}
+
 #main {
     border-radius: 5px;
     background:#EEEEEE;
     margin: 25px 5px;
     padding: 25px;
+    font-size: 20px;
 }
 
 #img_box {
@@ -31,4 +52,10 @@ img {
 
 #img_text {
     margin: 15px;
+    color: #333333;
 }  
+
+#text_box {
+    padding: 10px;
+    margin: 30px 560px 30px 560px;
+}
