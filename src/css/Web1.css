@@ -2,6 +2,20 @@ body {
     text-align: center;
 }
   
+h1 {
+    font-size: 50px;
+}
+
+p {
+    font-size: 20px;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    height: 800px;
+}
+
 #main {
     border-radius: 5px;
     background:#EEEEEE;
@@ -11,10 +25,10 @@ body {
 
 #img_box {
     background: white;
-    padding: 30px;
+    padding: 10px;
     margin: 0;
 }
 
 #img_text {
-    margin: 20px 0 5px 0;
+    margin: 15px;
 }  
